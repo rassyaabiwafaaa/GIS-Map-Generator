@@ -38,3 +38,26 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+   ```
+
+2. **Install Node.js and npm**
+
+   ```bash
+   node -v
+   npm -v
+
+   ```
+
+3. **Install Project Dependencies**
+
+   ```bash
+   npm install
+
+   ```
+
+4. **Run the Development Server**
+
+   ```bash
+   npm run dev
+   ```
