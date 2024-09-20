@@ -61,3 +61,14 @@ To get started with this project, follow these steps:
    ```bash
    npm run dev
    ```
+
+## Capture
+
+**Image**
+![image](https://github.com/user-attachments/assets/f702a228-2ecd-4830-a67b-70e962701a12)
+
+**Video**
+https://drive.google.com/file/d/1Gb1hHyQqHHLVbMQBTocz0FSLGDGKD_MB/view?usp=drive_link
+
+
+
